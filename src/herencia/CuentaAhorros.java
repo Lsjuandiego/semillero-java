@@ -1,3 +1,4 @@
+package herencia;
 public class CuentaAhorros extends Cuenta{
     private boolean estadoActiva;
 

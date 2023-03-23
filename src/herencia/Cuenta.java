@@ -1,3 +1,5 @@
+package herencia;
+
 public class Cuenta {
     protected float saldo;
     protected int numeroConsignaciones = 0;
